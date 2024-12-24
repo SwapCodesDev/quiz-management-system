@@ -1,0 +1,33 @@
+# NetBeans specific
+nbproject/
+nbproject-private/
+build/
+nbbuild/
+dist/
+nblibraries/
+
+# Maven specific
+target/
+*.log
+*.bak
+*.swp
+*.swo
+
+# IDE Specific
+*.iml
+.idea/
+*.ipr
+*.iws
+*.class
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other backups
+*~ 
+*.tmp
+
+# Environment specific
+.env
